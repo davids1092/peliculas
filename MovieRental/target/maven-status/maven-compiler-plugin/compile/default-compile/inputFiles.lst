@@ -1,6 +1,14 @@
-C:\Users\david\Documents\trabajos david\semestre 6\PROYECTO DE SOFTWARE\proyecto peliculas\MovieRental\src\main\java\beans\Peliculas.java
-C:\Users\david\Documents\trabajos david\semestre 6\PROYECTO DE SOFTWARE\proyecto peliculas\MovieRental\src\main\java\beans\Alquiler.java
-C:\Users\david\Documents\trabajos david\semestre 6\PROYECTO DE SOFTWARE\proyecto peliculas\MovieRental\src\main\java\test\OperacionesBD.java
-C:\Users\david\Documents\trabajos david\semestre 6\PROYECTO DE SOFTWARE\proyecto peliculas\MovieRental\src\main\java\connection\DBConnection.java
-C:\Users\david\Documents\trabajos david\semestre 6\PROYECTO DE SOFTWARE\proyecto peliculas\MovieRental\src\main\java\servlets\PruebaServlet.java
-C:\Users\david\Documents\trabajos david\semestre 6\PROYECTO DE SOFTWARE\proyecto peliculas\MovieRental\src\main\java\beans\Usuario.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\controller\PeliculaController.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\servlets\ServletUsuarioLogin.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\controller\IPeliculaController.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\connection\DBConnection.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\beans\Usuario.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\servlets\ServletUsuarioPedir.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\beans\Alquiler.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\test\OperacionesBD.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\beans\Peliculas.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\controller\UsuarioController.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\servlets\PruebaServlet.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\servlets\ServletPeliculaListar.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\controller\IUsuarioController.java
+C:\Users\pc\Documents\NetBeansProjects\MovieRental\src\main\java\servlets\ServletUsuarioRegister.java
